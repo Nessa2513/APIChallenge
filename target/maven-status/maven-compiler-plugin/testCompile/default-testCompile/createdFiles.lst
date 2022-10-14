@@ -1,0 +1,5 @@
+Tests.class
+utils\SetDataProperties.class
+requests\PostRequest.class
+requests\DeleteRequest.class
+requests\GetRequest.class
